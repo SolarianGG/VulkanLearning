@@ -1,0 +1,9 @@
+.vscode/
+
+.vs/
+
+build/
+
+shaders/*.spv
+
+app
